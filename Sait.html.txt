@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+ 
+    <head>
+        <meta charset="UTF-8"/>
+        <title>Сайт класса</title>
+    </head>
+ 
+    <body>
+
+        5) <h3>Привет мир!</h3>
+    </body>
+ 
+</html>
